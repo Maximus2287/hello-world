@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everybody!
+
+I want to tell you that I will soon travel to Japan.
